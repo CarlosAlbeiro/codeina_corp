@@ -7,7 +7,7 @@ const Carga = () => {
   return (
     <div className="loading-screen">
       <div className="spinner">
-      <img src={codeina} class="img-product" />
+      <img src={codeina} class="img-product" alt="" />
       </div>
     </div>
   );
