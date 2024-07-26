@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.208bb3b0.css",
+    "main.js": "/static/js/main.e7f45628.js",
+    "static/js/453.7cb24f58.chunk.js": "/static/js/453.7cb24f58.chunk.js",
+    "static/media/fondo_2.jpg": "/static/media/fondo_2.9ca3753bb6ab72ee48fd.jpg",
+    "static/media/codeina.png": "/static/media/codeina.5a8335a1ddbabbce1dc5.png",
+    "static/media/gorra.png": "/static/media/gorra.d5c0bf8ffff81465359e.png",
+    "index.html": "/index.html",
+    "main.208bb3b0.css.map": "/static/css/main.208bb3b0.css.map",
+    "main.e7f45628.js.map": "/static/js/main.e7f45628.js.map",
+    "453.7cb24f58.chunk.js.map": "/static/js/453.7cb24f58.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.208bb3b0.css",
+    "static/js/main.e7f45628.js"
+  ]
+}
